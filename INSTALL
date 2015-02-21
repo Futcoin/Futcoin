@@ -1,0 +1,9 @@
+Building FutCoin
+
+See doc/readme-qt.rst for instructions on building FutCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FutCoin.
+
+See doc/build-*.txt for instructions on building FutCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FutCoin.

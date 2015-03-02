@@ -38,7 +38,7 @@ Designer: http://www.everaldo.com
 Icon Pack: Crystal SVG
 License: LGPL
 
-Icon: src/qt/res/icons/bitcoin.png, src/qt/res/icons/toolbar.png
+Icon: src/qt/res/icons/toolbar.png
 Designer: Bitboy (optimized for 16x16 by Wladimir van der Laan)
 License: Public Domain
 Site: http://forum.bitcoin.org/?topic=1756.0
@@ -49,11 +49,11 @@ Designer: Everaldo (Everaldo Coelho)
 License: GNU/GPL 
 Site: http://findicons.com/icon/17102/reload?id=17102
 
-Image: src/qt/res/images/splash2.jpg (Wallet image)
-Designer: Crobbo (forum)
-Site: https://bitcointalk.org/index.php?topic=32273.0
-License: Public domain
+Image: src/qt/res/images/about.png, src/qt/res/images/splash*.png, src/qt/res/images/Wallet*.png
+Designer: Baron Ueda
+
+Icon: src/qt/res/icons/FutCoin*.png
+Designer: Baron Ueda
 
 FutCoin Logo
 Designer: Baron Ueda
-License: Creative Commons Attribution 4.0 International License
